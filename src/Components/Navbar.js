@@ -11,10 +11,10 @@ export default function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto my-2 my-lg-0" style={{margin:15}}>
         <NavDropdown title="Features" id="basic-nav-dropdown"style={{margin:15}}>
-          <NavDropdown.Item >Todo List</NavDropdown.Item>
-          <NavDropdown.Item >Calendar</NavDropdown.Item>
-          <NavDropdown.Item >Reminders</NavDropdown.Item>
-          <NavDropdown.Item >Planning</NavDropdown.Item>
+          <NavDropdown.Item ><img src='../images/icon-todo.svg' style={{marginRight:15}} alt="logo-todo"/>Todo List</NavDropdown.Item>
+          <NavDropdown.Item ><img src='../images/icon-calendar.svg' style={{marginRight:15}} alt="logo-calendar"/>Calendar</NavDropdown.Item>
+          <NavDropdown.Item ><img src='../images/icon-reminders.svg' style={{marginRight:15}}alt="logo-reminders"/>Reminders</NavDropdown.Item>
+          <NavDropdown.Item ><img src='../images/icon-planning.svg' style={{marginRight:15}} alt="logo-planning"/>Planning</NavDropdown.Item>
         </NavDropdown>
         <NavDropdown title="Company" id="basic-nav-dropdown"style={{margin:15}}>
           <NavDropdown.Item >History</NavDropdown.Item>
