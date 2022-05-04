@@ -4,8 +4,8 @@ import { Navbar, Nav, NavDropdown, Button, Container } from 'react-bootstrap';
 export default function Navigation() {
 
     return (
-        <Navbar expand="xl">
-        <Container fluid>
+        <Navbar expand="lg">
+        <Container fluid style={{margin:15}}>
         <Navbar.Brand><img src='../images/logo.svg' alt="logo"/></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

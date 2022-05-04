@@ -8,15 +8,29 @@
   font-size: 18px;
 }
 
-
 .Navbar {
   display: inline;
 }
-
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 45px;
+}
 .content {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-evenly;
+
+}
+.text {
+  margin-top: 25px;
+}
+
+.learn-more {
+  margin-top: 25px;
+}
+.info-partners {
+  margin-top: 75px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&family=Open+Sans&display=swap');

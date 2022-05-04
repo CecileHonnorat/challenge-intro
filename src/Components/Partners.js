@@ -1,29 +1,29 @@
 import React from 'react';
+import { Container, Col } from 'react-bootstrap';
 
 export default function Partners(){
 
     return (
-        <div>
-        <img
+        <Container >
+            <Col style={{display:'flex', flexDirection:'row', justifyContent:"space-around", alignItems:'flex-start'}} >
+            <img
           src='./images/client-databiz.svg'
           alt='logo-databiz'
-          style={{marginRight:30}}
         />
         <img
           src='./images/client-audiophile.svg'
           alt='logo-audiophile'
-          style={{marginRight:30}}
         />
         <img
           src='./images/client-meet.svg'
           alt='logo-meet'
-          style={{marginRight:30}}
         />
         <img
           src='./images/client-maker.svg'
           alt='logo-maker'
-          style={{marginRight:30}}
         />
-      </div>
+            </Col>
+        
+      </Container>
     )
 }
