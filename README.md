@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- My Solution URL: [Add solution URL here](https://safe-ridge-54272.herokuapp.com/)
+- My Solution URL: [See Here](https://safe-ridge-54272.herokuapp.com/)
 
 ## My process
 
