@@ -7,6 +7,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -26,6 +27,9 @@ Users should be able to:
 
 ![Preview](https://github.com/CecileHonnorat/challenge-intro/blob/master/public/images/desktop-design.jpg)
 
+### Links
+
+- My Solution URL: [Add solution URL here](https://safe-ridge-54272.herokuapp.com/)
 
 ## My process
 
