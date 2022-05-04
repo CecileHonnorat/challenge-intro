@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-[./desktop-design.jpg]
+![Preview](https://github.com/CecileHonnorat/challenge-intro/blob/master/public/images/desktop-design.jpg)
 
 
 ## My process
